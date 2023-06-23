@@ -56,9 +56,8 @@ label {
 
 input,
 textarea {
-  display: block;
+  
   border: 1px solid #ccc;
-  width: 100%;
   padding: 0.8rem;
   border-radius: var(--radius);
   background: #eee;
@@ -103,3 +102,4 @@ hr {
   border: 2px solid black;
   margin: 2rem auto;
 }
+
